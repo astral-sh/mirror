@@ -16,6 +16,8 @@ in `https://astral-sh.github.io/mirror/files/`:
   * mirrored from `https://sourceware.org/pub/bzip2/bzip2-1.0.8.tar.gz`
 * [m4-1.4.19.tar.xz](https://astral-sh.github.io/mirror/files/m4-1.4.19.tar.xz)
   * mirrored from `https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.xz`
+* [mpdecimal-4.0.0.tar.gz](https://astral-sh.github.io/mirror/files/mpdecimal-4.0.0.tar.gz)
+  * mirrored from `https://www.bytereef.org/software/mpdecimal/releases/mpdecimal-4.0.0.tar.gz`
 * [ncurses-6.5.tar.gz](https://astral-sh.github.io/mirror/files/ncurses-6.5.tar.gz)
   * mirrored from `https://ftp.gnu.org/pub/gnu/ncurses/ncurses-6.5.tar.gz`
 * [nasm-2.16.03-win64.zip](https://astral-sh.github.io/mirror/files/nasm-2.16.03-win64.zip)
