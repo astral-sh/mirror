@@ -24,6 +24,8 @@ in `https://astral-sh.github.io/mirror/files/`:
   * mirrored from `https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/win64/nasm-2.16.03-win64.zip`
 * [readline-8.2.tar.gz](https://astral-sh.github.io/mirror/files/readline-8.2.tar.gz)
   * mirrored from `https://ftp.gnu.org/gnu/readline/readline-8.2.tar.gz`
+* [setup-2.939.x86_64.exe](https://astral-sh.github.io/mirror/files/setup-2.939.x86_64.exe)
+  * mirrored from `https://cygwin.com/setup/setup-2.939.x86_64.exe`
 
 On public availability
 ===
